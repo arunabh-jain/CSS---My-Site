@@ -1,0 +1,150 @@
+body{
+    margin: 0%;
+    color: #40514e;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.intro{
+    width: 30%;
+    margin: auto;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+p{
+    line-height: 2;
+}
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+hr{
+    border: dotted #a8b1b1 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 50px auto;
+}
+
+h1{
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    color:  #66BFBF;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+    padding-bottom: 5px;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+.top{
+    
+    background-color: #e4f9f5;
+    padding-top: 100px;
+
+    position: relative;
+    }
+
+.middle-container{
+
+    margin: 100px 0px 0px 0px;
+        }
+
+.bottom-container{
+    background-color: #66bfbf;
+    padding: 30px 0px 10px;
+        }
+
+.bottomcloud{
+    position: absolute;
+    left:250px;
+    bottom:300px;
+    
+    
+}
+
+.topcloud{
+    position: absolute;
+    top: 40px;
+    right: 300px;
+   
+    
+}
+
+.extraimage{
+    border-radius: 100%;
+}
+a{color:#11999E;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    margin: 10px 20px;
+}
+
+a:hover{
+    color: #eaf6f6;
+}
+
+.copyright{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.75rem;
+    color: #EAF6F6;
+    padding-top: 10px;
+}
+
+.btn{
+    font-size:20px;
+    font-family: 'Montserrat', sans-serif;
+    border-width:1px;
+    color:#fff;
+    border-color:#599bb3;
+    padding:10px 20px 10px 20px;
+    font-weight:bold;
+    border-radius: 8px;
+    box-shadow: 0px 10px 14px -7px #276873;
+    text-shadow: 0px 1px 0px #3d768a;
+    background:linear-gradient(#11cdd4, #11999e);
+    text-decoration: none;
+  }
+
+  .contact-me{
+    margin-bottom: 75px;
+  }
+  
+  .btn:hover {
+    background: linear-gradient(#30e3cb, #2bc4ad);
+  }
+
+.skill-row{
+    width: 50%;
+    margin: 50px auto;
+    text-align: justify;
+    line-height: 2;
+
+}
+
+.computer{
+        width: 25%;
+        border-radius: 100%;
+        float: left;
+        margin-right: 30px;
+    }
+
+.chilli{
+    width: 25%;
+    border-radius: 100%;
+    float: right;
+    margin-left: 30px;
+}
